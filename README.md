@@ -1,1 +1,1 @@
-# product-modal
+[Product Modal](https://bavykindaniil.github.io/product-modal/)
